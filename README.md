@@ -1,4 +1,4 @@
 eggly
 =====
 
-AngularJS App From Scratch: Getting Started
+AngularJS App From Scratch: Getting Started.
